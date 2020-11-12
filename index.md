@@ -14,7 +14,6 @@
         <label>
         <input type="submit" checked="checked" name="remember"> Remember me
         </label>
-        </div>
-    </div>
+     </div>
 </form>
 
