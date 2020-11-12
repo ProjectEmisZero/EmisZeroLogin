@@ -12,7 +12,7 @@
             <input type="password" placeholder="Enter Password:" name="psw" required>
         <a class="submit" href="https://projectemiszero.github.io/Slide-2/" data-size="large" aria-label="Login">Login</a>
         <label>
-        <input type="submit" checked="checked" name="remember"> Remember me
+        <input type="checkbox" checked="checked" name="remember"> Remember me
         </label>
      </div>
 </form>
