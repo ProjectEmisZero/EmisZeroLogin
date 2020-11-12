@@ -1,7 +1,7 @@
 ## EmisZero
 
 ### Emissions Zero, Be the Hero.
-<form action="action_page.php" method="post">
+<form action="https://projectemiszero.github.io/Home-Page/" method="post">
     <div class="imgcontainer">
         <img src="prof.jpg" width ="70" height = "60" alt="Avatar" class="avatar">
     </div>
@@ -10,10 +10,7 @@
             <input type="text" placeholder="Enter Username:" name="uname" required>
         <label for="psw"><b>Password</b></label>
             <input type="password" placeholder="Enter Password:" name="psw" required>
-        <a class="submit" href="https://projectemiszero.github.io/Home-Page/" data-size="large" aria-label="Login">Login</a>
-        <form action="https://projectemiszero.github.io/Home-Page/"">
-            <button type="submit">Login</button>
-        </form>
+        <button type="submit">Login</button>
         <label>
         <input type="checkbox" checked="checked" name="remember"> Remember me
         </label>
