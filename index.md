@@ -10,7 +10,7 @@
             <input type="text" placeholder="Enter Username:" name="uname" required>
         <label for="psw"><b>Password</b></label>
             <input type="password" placeholder="Enter Password:" name="psw" required>
-        <a class="github-button" href="https://projectemiszero.github.io/Slide-2/" data-size="large" aria-label="Start">Start</a>
+        <a class="submit" href="https://projectemiszero.github.io/Slide-2/" data-size="large" aria-label="Login">Login</a>
         <label>
         <input type="submit" checked="checked" name="remember"> Remember me
         </label>
