@@ -7,7 +7,7 @@
    <input type="text" placeholder="Enter Username:" name="uname" required>
    <label for="psw"><b>Password</b></label>
    <input type="password" placeholder="Enter Password:" name="psw" required>
-   <button action="https://projectemiszero.github.io/Home-Page/" type="button">Login</button>
+   <a href="https://projectemiszero.github.io/Home-Page/"><button type="submit">Link Text</button></a>
    <label>
       <input type="checkbox" checked="checked" name="remember"> Remember me
    </label>
